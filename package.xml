@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package>
+    <name>Inic_Productzoom</name>
+    <version>1.0.0.1</version>
+    <stability>stable</stability>
+    <license uri="http://opensource.org/licenses/osl-3.0.php">OSL</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>zoom on detail page</summary>
+    <description>zoom on detail page</description>
+    <notes>product zoom </notes>
+    <authors><author><name>indianic</name><user>indianic</user><email>enquiry@indianic.com</email></author></authors>
+    <date>2013-07-22</date>
+    <time>07:48:30</time>
+    <contents><target name="magecommunity"><dir name="Inic"><dir name="Productzoom"><dir name="Helper"><file name="Data.php" hash="119c5660b72cec47294b492216740dca"/></dir><dir name="etc"><file name="config.xml" hash="76f8146f7a20b12e6d25af9cd96130b8"/><file name="system.xml" hash="90fa7be8c1196cb53697a823f12d1753"/></dir></dir></dir></target><target name="magedesign"><dir name="frontend"><dir name="default"><dir name="default"><dir name="template"><dir name="productzoom"><file name="media.phtml" hash="904257555204fc8d0ba401632ab8bd76"/></dir></dir><dir name="layout"><file name="productzoom.xml" hash="88fff5838b1a5dc8ccf74cf4158a61f4"/></dir></dir></dir></dir></target><target name="mageetc"><dir name="modules"><file name="Inic_Productzoom.xml" hash="909cb183a6be3917e52c1481c7c52e89"/></dir></target><target name="mageskin"><dir name="frontend"><dir name="default"><dir name="default"><dir name="productzoom"><file name="carosal.css" hash="61c5c318908e857204457297af5e6903"/><file name="jquery.jqzoom.css" hash="465c081ab84c0c5513ad56e63459f4e5"/></dir><dir name="img"><file name="mouse-over.png" hash="20e6208f7af2596e74f6ff390b4d2767"/><file name="next1-h.png" hash="c551a575a71d5edc1afc9def33c1449a"/><file name="next1.png" hash="f15d9ac220a82ee2865b43e66ed87daa"/><file name="prev1-h.png" hash="a8861acdfefa56e380020f69f68a668d"/><file name="prev1.png" hash="5e9f562b7622386468f17a6ea7a3fabd"/></dir></dir></dir></dir></target><target name="mage"><dir name="js"><dir name="productzoom"><file name="jquery-1.7.2.js" hash="cdfe1403287880f29f08b651562d6344"/><file name="jquery.carouFredSel-2.6.0.js" hash="ac920f9620bb1cd9766f6f1f0c375db9"/><file name="jquery.jqzoom-core.js" hash="8bf1605d68fd262a6cf88399dcafc8a5"/></dir></dir></target></contents>
+    <compatible/>
+    <dependencies><required><php><min>5.1.0</min><max>6.0.0</max></php></required></dependencies>
+</package>
