@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/Inic_Productzoom",
+    "name": "OpenMageModuleFostering\/Inic_Productzoom",
     "type": "magento-module",
     "license": "OSL",
     "homepage": "",
     "description": "zoom on detail page",
     "authors": [
-    {
-        "name": "indianic",
-        "email": "enquiry@indianic.com"
-    }
-],
+        {
+            "name": "indianic",
+            "email": "enquiry@indianic.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
